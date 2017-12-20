@@ -1,2 +1,2 @@
 # sass-conversion
-Assignment on SASS in the class Cross-Platform Web development
+Sample Site to be used as practice in converting CSS to SASS
